@@ -1,7 +1,7 @@
 # CustomHierarchyFolders
 CustomHierarchyFolders is a Unity plugin that allows you to create folders in the Hierarchy panel to organize your GameObjects.
 
-![CustomHierarchyFolders](https://github.com/alisahanyalcin/CustomHierarchyFolders/assets/34830846/086abd71-56bd-4c81-9792-d66a9f38fa79)
+https://github.com/alisahanyalcin/CustomHierarchyFolders/assets/34830846/aae72db5-fa25-46ce-a2fc-53c1fa9a92ae
 
 ## Installation
 1. Download the latest unitypackage from [Releases](https://github.com/alisahanyalcin/CustomHierarchyFolders/releases) page.
